@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440944980664",
+    "project_id": "practica9-228419",
+    "storage_bucket": "practica9-228419.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440944980664:android:c19cc373ee1653a78f7a4d",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.practica9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ZtzvYHtE-3Z8ea0-bcmilGmMyFxiF-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
